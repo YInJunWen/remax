@@ -33,12 +33,11 @@
     "typescript": "^4.0.2"
   },
   "dependencies": {
-    "@remax/ali": "2.8.6",
+    "@remax/ali": "2.8.8",
     "@remax/framework-shared": "^0.0.1",
-    "@remax/router": "2.8.6",
-    "@remax/runtime": "2.8.6",
-    "@remax/toutiao": "2.8.6",
-    "@remax/wechat": "2.8.6",
+    "@remax/runtime": "2.8.8",
+    "@remax/toutiao": "2.8.8",
+    "@remax/wechat": "2.8.8",
     "clsx": "^1.1.0",
     "memoize-one": "^5.1.1",
     "react-autosize-textarea": "^7.0.0",

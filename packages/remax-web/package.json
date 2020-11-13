@@ -25,7 +25,8 @@
   },
   "dependencies": {
     "@loadable/component": "^5.12.0",
-    "@remax/router": "2.8.8",
+    "@remax/one": "^2.8.6",
+    "@remax/router": "2.8.6",
     "rmc-pull-to-refresh": "^1.0.12",
     "umi-hd": "^5.0.1"
   },

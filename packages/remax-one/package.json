@@ -37,6 +37,7 @@
     "@remax/framework-shared": "^0.0.1",
     "@remax/runtime": "2.8.8",
     "@remax/toutiao": "2.8.8",
+    "@remax/web": "^2.8.8",
     "@remax/wechat": "2.8.8",
     "clsx": "^1.1.0",
     "memoize-one": "^5.1.1",

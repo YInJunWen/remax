@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.14.0](https://github.com/remaxjs/remax/compare/v2.13.6...v2.14.0) (2021-07-06)
+
+**Note:** Version bump only for package @remax/plugin-devtools
+
+## [2.13.6](https://github.com/remaxjs/remax/compare/v2.13.5...v2.13.6) (2021-06-26)
+
+**Note:** Version bump only for package @remax/plugin-devtools
+
+## [2.13.5](https://github.com/remaxjs/remax/compare/v2.13.4...v2.13.5) (2021-06-22)
+
+**Note:** Version bump only for package @remax/plugin-devtools
+
+## [2.13.4](https://github.com/remaxjs/remax/compare/v2.13.3...v2.13.4) (2021-05-31)
+
+**Note:** Version bump only for package @remax/plugin-devtools
+
+## [2.13.3](https://github.com/remaxjs/remax/compare/v2.13.2...v2.13.3) (2021-05-25)
+
+**Note:** Version bump only for package @remax/plugin-devtools
+
+## [2.13.2](https://github.com/remaxjs/remax/compare/v2.13.1...v2.13.2) (2021-05-19)
+
+**Note:** Version bump only for package @remax/plugin-devtools
+
+## [2.13.1](https://github.com/remaxjs/remax/compare/v2.13.0...v2.13.1) (2021-04-22)
+
+**Note:** Version bump only for package @remax/plugin-devtools
+
 # [2.13.0](https://github.com/remaxjs/remax/compare/v2.12.1...v2.13.0) (2021-04-19)
 
 **Note:** Version bump only for package @remax/plugin-devtools

@@ -3,6 +3,40 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.14.0](https://github.com/remaxjs/remax/compare/v2.13.6...v2.14.0) (2021-07-06)
+
+**Note:** Version bump only for package @remax/wechat
+
+## [2.13.6](https://github.com/remaxjs/remax/compare/v2.13.5...v2.13.6) (2021-06-26)
+
+**Note:** Version bump only for package @remax/wechat
+
+## [2.13.5](https://github.com/remaxjs/remax/compare/v2.13.4...v2.13.5) (2021-06-22)
+
+### Bug Fixes
+
+- **wechat:** fix preview media ([#1617](https://github.com/remaxjs/remax/issues/1617)) ([3995718](https://github.com/remaxjs/remax/commit/399571850d59d94eed5ef968280e5469cdff30e6))
+
+## [2.13.4](https://github.com/remaxjs/remax/compare/v2.13.3...v2.13.4) (2021-05-31)
+
+**Note:** Version bump only for package @remax/wechat
+
+## [2.13.3](https://github.com/remaxjs/remax/compare/v2.13.2...v2.13.3) (2021-05-25)
+
+### Bug Fixes
+
+- **wechat:** 修复 page-meta、navigation-bar 组件渲染错误 ([#1583](https://github.com/remaxjs/remax/issues/1583)) ([a8d21f5](https://github.com/remaxjs/remax/commit/a8d21f543598477cbda9a01c3178f6d294e7d977))
+
+## [2.13.2](https://github.com/remaxjs/remax/compare/v2.13.1...v2.13.2) (2021-05-19)
+
+### Bug Fixes
+
+- **wechat:** 同步微信小程序组件到最新版本 ([#1576](https://github.com/remaxjs/remax/issues/1576)) ([fd47e56](https://github.com/remaxjs/remax/commit/fd47e56c7c3a995bd7aa2f336f7d30f299bc92ac))
+
+## [2.13.1](https://github.com/remaxjs/remax/compare/v2.13.0...v2.13.1) (2021-04-22)
+
+**Note:** Version bump only for package @remax/wechat
+
 # [2.13.0](https://github.com/remaxjs/remax/compare/v2.12.1...v2.13.0) (2021-04-19)
 
 ### Bug Fixes

@@ -1,16 +1,5 @@
 #!/usr/bin/env sh
 
-
-[ -z "$GH_TOKEN" ] && printf "\nERROR!! Need to set GH_TOKEN first\n\n" && exit 1;
-
 printf "npm login:\n"
 
-function e2eMini {
-  if [ -z $SKIP_E2E_MINI_TEST ]; then
-    npm run test:e2e-mini
-  else
-    echo "\033[31mskip e2e mini test!!!!!"
-  fi
-}
-
-npm whoami && npm run lint && npm run build && npm run test && npm run test:e2e-web && e2eMini
+npm whoami && npm run lint && npm run build && npm run test && npm run test:e2e-web
